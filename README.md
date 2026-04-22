@@ -2,11 +2,12 @@
 
 # GPS AR
 
-<img src="https://img.shields.io/badge/Unity-2019.2.0f1-000000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-Scripts-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Type-Location--Based%20AR-f59e0b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AR-Markless-6366f1?style=for-the-badge" />
+![Unity](https://img.shields.io/badge/Unity-2019.2.0f1-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Scripts-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Type](https://img.shields.io/badge/Type-Location--Based%20AR-f59e0b?style=for-the-badge)
+![AR](https://img.shields.io/badge/AR-Markless-6366f1?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)
 
 <br/>
 
@@ -19,8 +20,6 @@
 ## Overview
 
 A **markless augmented reality** app that combines GPS location data with live camera feed to anchor 3D virtual objects at real-world coordinates. As the user moves, the AR content repositions relative to their GPS position — demonstrating the foundation of how apps like Google Maps Live View work.
-
-Built as part of an undergraduate AR/VR development course.
 
 ---
 
@@ -61,6 +60,6 @@ graph LR
 
 <div align="center">
 
-Built by [Akhila Susarla](https://github.com/Akhila-Susarla) · Undergrad AR/VR Course
+Built by [Akhila Susarla](https://github.com/Akhila-Susarla)
 
 </div>
